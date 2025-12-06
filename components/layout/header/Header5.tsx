@@ -36,7 +36,7 @@ export default function Header5({ scroll, isMobileMenu, handleMobileMenu }: any)
 							<div className="col-12">
 								<div className="tgmenu__wrap">
 									<nav className="tgmenu__nav">
-										<div className="logo">
+										<div className="logo amar">
 											<Link href="/"><img src="/assets/img/logo/logo.svg" alt="Logo" /></Link>
 										</div>
 										<div className="info-card-wrap style4 m-auto">
